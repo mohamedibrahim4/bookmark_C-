@@ -1,0 +1,13 @@
+C:\Users\muhamed\Desktop\bookmark\bin\Debug\bookmark.exe.config
+C:\Users\muhamed\Desktop\bookmark\bin\Debug\bookmark.exe
+C:\Users\muhamed\Desktop\bookmark\bin\Debug\bookmark.pdb
+C:\Users\muhamed\Desktop\bookmark\obj\Debug\bookmark.csproj.CoreCompileInputs.cache
+C:\Users\muhamed\Desktop\bookmark\obj\Debug\bookmark.exe
+C:\Users\muhamed\Desktop\bookmark\obj\Debug\bookmark.pdb
+E:\فلاشة\bookmark\bin\Debug\bookmark.exe.config
+E:\فلاشة\bookmark\bin\Debug\bookmark.exe
+E:\فلاشة\bookmark\bin\Debug\bookmark.pdb
+E:\فلاشة\bookmark\obj\Debug\bookmark.csproj.AssemblyReference.cache
+E:\فلاشة\bookmark\obj\Debug\bookmark.csproj.CoreCompileInputs.cache
+E:\فلاشة\bookmark\obj\Debug\bookmark.exe
+E:\فلاشة\bookmark\obj\Debug\bookmark.pdb
